@@ -11,3 +11,5 @@ define("DB_ENCODE","utf8");
 
 define("SISTEMA_NOMBRE","POS_SYSTEM");
 ?>
+
+/* prueba de sistema pos */
