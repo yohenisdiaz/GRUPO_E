@@ -1,6 +1,6 @@
 <?php
 
-require_once "../modelos/categorias.php";
+require_once "../modelos/categoria.php";
 
 $categoria = new Categoria();
 

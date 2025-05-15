@@ -1,5 +1,4 @@
 var tabla;
-console.log("hola mundo");
 
 function init() {
     mostrarFormulario(false);
