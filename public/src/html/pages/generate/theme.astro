@@ -3,7 +3,7 @@ import Head from "@components/_head.astro";
 import Footer from "@components/dashboard/_footer.astro";
 import Topbar from "@components/dashboard/_topbar.astro";
 import Scripts from "@components/_scripts.astro";
-import { convertPathToHtml } from "../../../utils/index.js";
+import { convertPathToHtml } from "<?php echo $ruta; ?>../utils/index.js";
 
 const title = "AdminLTE 4 | Theme Customize";
 const path = "../<?php echo $ruta; ?>dist";

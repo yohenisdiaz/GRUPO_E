@@ -19,7 +19,7 @@ function convertPathToHtml(path) {
   }
 
   if (count === 5) {
-    htmlPath = '../../..'
+    htmlPath = '<?php echo $ruta; ?>..'
   }
 
   return htmlPath

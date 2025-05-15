@@ -1,5 +1,5 @@
 const typescript = require('@rollup/plugin-typescript')
-const pkg = require('../../package.json')
+const pkg = require('<?php echo $ruta; ?>package.json')
 
 const year = new Date().getFullYear()
 const banner = `/*!
