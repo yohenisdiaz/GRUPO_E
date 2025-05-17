@@ -13,6 +13,19 @@
       name="keywords"
       content="bootstrap 5, bootstrap, bootstrap 5 admin dashboard, bootstrap 5 dashboard, bootstrap 5 charts, bootstrap 5 calendar, bootstrap 5 datepicker, bootstrap 5 tables, bootstrap 5 datatable, vanilla js datatable, colorlibhq, colorlibhq dashboard, colorlibhq admin dashboard"
     />
+
+    <?php
+      $ruta="../public/";
+    ?>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="<?php echo $ruta; ?>plugins/fontawesome-free/css/all.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="<?php echo $ruta; ?>plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="<?php echo $ruta; ?>plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link rel="stylesheet" href="<?php echo $ruta; ?>plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
     <!--end::Primary Meta Tags-->
     <!--begin::Fonts-->
     <link
@@ -39,10 +52,6 @@
     />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-
-    <?php
-      $ruta="../public/";
-    ?>
     <link rel="stylesheet" href="<?php echo $ruta; ?>dist/css/adminlte.css"/>
     <!--end::Required Plugin(AdminLTE)-->
     <!-- apexcharts -->

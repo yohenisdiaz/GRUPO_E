@@ -8,7 +8,7 @@
     Copyright &copy; 2025&nbsp;
     <a href="https://adminlte.io" class="text-decoration-none">Group YJAJM LTDA</a>.
   </strong>
-  All rights reserved.
+  Todos los derechos reservados.
   <!--end::Copyright-->
 </footer>
 

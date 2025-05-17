@@ -103,7 +103,7 @@
                                         <button class="btn btn-primary" type="submit" id="botonGuardar"><i
                                                 class="fa fa-save"></i> Guardar</button>
 
-                                        <button class="btn btn-danger" onclick="cancelarformulario()" type="button"><i
+                                        <button class="btn btn-danger" onclick="cancelarFormulario()" type="button"><i
                                                 class="fa fa-arrow-circle-left"></i> Cancelar</button>
                                     </div>
                                 </form>
