@@ -1,19 +1,13 @@
 <footer class="app-footer">
-  <!--begin::To the end-->
-  <div class="float-end d-none d-sm-inline">Anything you want</div>
-  <!--end::To the end-->
-
   <!--begin::Copyright-->
   <strong>
     Copyright &copy; 2025&nbsp;
-    <a href="https://adminlte.io" class="text-decoration-none">Group YJAJM LTDA</a>.
+    <a href="categorias.php" class="text-decoration-none">Group YJAJM LTDA</a>.
   </strong>
   Todos los derechos reservados.
   <!--end::Copyright-->
 </footer>
-
 <!-- ========== SCRIPTS NECESARIOS ========== -->
-
 <!-- jQuery -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
